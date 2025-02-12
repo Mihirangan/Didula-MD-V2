@@ -22,7 +22,7 @@ ANTI_CALL: process.env.ANTI_CALL || "false",
 
 
 
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "PRABATH-MD~U2dkiYzD#K7qk01sRp3564edKyKJDX4IjJhrDw8vfhzk8cy_PrnM",
 
 
 
@@ -36,7 +36,7 @@ SESSION_ID: process.env.SESSION_ID || "",
 
 
 
-ALIVE_REACT: process.env.ALIVE_REACT || "⚠️",
+ALIVE_REACT: process.env.ALIVE_REACT || "💝",
 };
 
 
